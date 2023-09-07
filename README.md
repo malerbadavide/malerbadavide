@@ -16,4 +16,5 @@
 ![malerbadavide's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=malerbadavide&include_all_commits=true&hide_border=true&vue-dark&)
 
 </details>
-_<p align="center">Check out my projects! 👇</p>_
+
+<p align="center">Check out my projects! 👇</p>
