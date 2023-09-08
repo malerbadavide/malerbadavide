@@ -1,5 +1,5 @@
 <h1 align="center">Ciaoo <img src="assets/Hi.gif" alt="👋" width="35"/>, I'm Davide</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A developer from Italy</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
