@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davide</h1>
+<h1 align="center">Hi <img src="assets/Hi.gif" alt="👋" width="35"/>, I'm Davide</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 <h3 align="left">Languages and Tools:</h3>
